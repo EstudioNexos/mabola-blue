@@ -1,0 +1,8 @@
+{
+	"extends": "mabola",
+	"name": "Mabola Blue  - Material, bootstrap and Larry skin",
+	"author": "Estudio Nexos, Valladolid, Spain",
+	"license": "GNU General Public License",
+	"license-url": "http://www.gnu.org/licenses/gpl.html",
+	"version": "0.0.1"
+}

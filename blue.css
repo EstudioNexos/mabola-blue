@@ -1,0 +1,17 @@
+.minimal #taskbar a, #taskbar a {
+    color: #edf7fc;
+}
+
+
+.minimal #topline,
+#topline {
+    background: #333 none repeat scroll 0 0;
+}
+
+#topnav, 
+.listbox .listitem.selected,
+ .listbox .tablink.selected, .listbox .listitem.selected > a, .listbox .tablink.selected > a, .listing tbody tr.selected td, .listing li.selected, .listing li.selected > a,
+#directorylist li.addressbook.selected > a 
+{
+    background-color: #3c8dbc;
+}
